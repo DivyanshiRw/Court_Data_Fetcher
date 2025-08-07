@@ -1,0 +1,6 @@
+streamlit
+selenium
+mysql-connector-python
+beautifulsoup4
+lxml
+python-dotenv
