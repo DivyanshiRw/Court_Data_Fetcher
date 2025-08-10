@@ -137,6 +137,15 @@ timestamp	     When the query was made
 raw_response	 Raw HTML of court response
 ```
 ---
+
+## Result
+
+Sample outputs are present in /sample_output folder.
+
+Demo Video:
+https://drive.google.com/file/d/1TtuGwqfuYPnUqcdv0Nb-QesENJeApg7L/view?usp=drivesdk
+ 
+---
 ## 📝 License
 
 This project is licensed under the [MIT License](./LICENSE).
